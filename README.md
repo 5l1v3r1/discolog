@@ -1,7 +1,7 @@
-# DiscoLog
+# DiscoLog 👾
 DiscoLog is a Discord Message Logger with Unique Features &amp; Webhook Logging Support.
 
-# How To Use
+# Usage 🤖
 How to install/run DiscoLog:
 
     Download this repository & Open 'start.bat'
@@ -55,8 +55,6 @@ Awesome! have fun :D
 
 I am giving everyone permission to change this program how they please, and distribute it (for free).
 
-^^ as long as I am given credit for my work, Thanks.
+^^ as long as I am given credit for my work, Thanks. 👾
 
-and, if you're going to change this code and post it onto your github, Just fork it please!
-
-I'd like to see how much you guys are improving on it :D
+and, if you're going to change this code and post it onto your github, Just fork it please
